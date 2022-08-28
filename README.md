@@ -12,3 +12,7 @@
 ### About for
 > 👉 https://croossh103.tistory.com/6</br>
 22.08.24
+
+### About if
+> 👉 https://croossh103.tistory.com/6</br>
+22.08.28
