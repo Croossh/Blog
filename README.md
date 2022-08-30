@@ -18,6 +18,6 @@
 > 👉 https://croossh103.tistory.com/7</br>
 22.08.28
 
-### Javascript for..in 과 for of
+### Javascript for문이 끝이 아니다! for...of (feat. join메서드)
 > 👉 https://croossh103.tistory.com/8</br>
-22.08.30
+22.08.31
