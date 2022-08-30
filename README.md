@@ -17,3 +17,7 @@
 ### Javascript 조건문(if문) 완전 정복! (if, else if, else + 삼항연산자)
 > 👉 https://croossh103.tistory.com/7</br>
 22.08.28
+
+### Javascript for..in 과 for of
+> 👉 https://croossh103.tistory.com/8</br>
+22.08.30
