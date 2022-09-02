@@ -21,3 +21,7 @@
 ### Javascript for문이 끝이 아니다! for...of (feat. join메서드)
 > 👉 https://croossh103.tistory.com/8</br>
 22.08.31
+
+### Javascript for문이 끝이 아니다!2 for...in (feat. Object.values(), Object.keys())
+> 👉 https://croossh103.tistory.com/9</br>
+22.09.02
