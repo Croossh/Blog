@@ -2,6 +2,8 @@
 🚀 배운내용을 기록하는 Croossh의 블로그 입니다.</br>
 👉 https://croossh103.tistory.com/
 #
+### [HTML] HTML Tag 중 많이 쓰이는 태그를 알아보자!/22.09.14
+> 👉 https://croossh103.tistory.com/12</br>
 
 ### [HTML] HTML이란? + 기본구조 알아보기/22.09.12
 > 👉 https://croossh103.tistory.com/11</br>
