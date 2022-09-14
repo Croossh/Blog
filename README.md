@@ -2,6 +2,13 @@
 🚀 배운내용을 기록하는 Croossh의 블로그 입니다.</br>
 👉 https://croossh103.tistory.com/
 #
+
+###[CSS] Transition 속성 + :hover 알아보기! (property, duration, timing-function, delay)/22.09.15
+> 👉 https://croossh103.tistory.com/15</br>
+
+### [CSS] Transform 속성 알아보기! (rotate, scale, skew, translate)/22.09.14
+> 👉 https://croossh103.tistory.com/14</br>
+
 ### [CSS] CSS란? (feat. Cascading)/22.09.14
 > 👉 https://croossh103.tistory.com/13</br>
 
