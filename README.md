@@ -2,6 +2,9 @@
 🚀 배운내용을 기록하는 Croossh의 블로그 입니다.</br>
 👉 https://croossh103.tistory.com/
 #
+### [CSS] CSS란? (feat. Cascading)/22.09.14
+> 👉 https://croossh103.tistory.com/13</br>
+
 ### [HTML] HTML Tag 중 많이 쓰이는 태그를 알아보자!/22.09.14
 > 👉 https://croossh103.tistory.com/12</br>
 
