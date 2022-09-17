@@ -3,6 +3,9 @@
 👉 https://croossh103.tistory.com/
 #
 
+### [CSS] Animation 속성 (feat. @keyframes) 알아보기! (name, duration, timing-function, delay, iteration-count, direction)/22.09.18
+> 👉 https://croossh103.tistory.com/16</br>
+
 ### [CSS] Transition 속성 + :hover 알아보기! (property, duration, timing-function, delay)/22.09.15
 > 👉 https://croossh103.tistory.com/15</br>
 
