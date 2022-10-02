@@ -1,7 +1,10 @@
 # Welcome to Croossh Blog
 🚀 배운내용을 기록하는 Croossh의 블로그 입니다.</br>
 👉 https://croossh103.tistory.com
-#
+***
+
+### [알고리즘] JS - 피라미드 별 찍기/22.10.02
+> 👉 https://croossh103.tistory.com/19</br>
 
 ### [Javascript] html 클래스 속성값 동적으로 추가하기 (classList.add, remove, toggle) + setAttribute()/22.09.26
 > 👉 https://croossh103.tistory.com/18</br>
