@@ -2,6 +2,9 @@
 🚀 배운내용을 기록하는 Croossh의 블로그 입니다.</br>
 👉 https://croossh103.tistory.com
 ***
+### [Javascript] Promise 이해하기 (콜백 지옥?)/22.10.07
+> 👉 https://croossh103.tistory.com/22</br>
+
 ### [알고리즘] JS - 문자열 안에 대문자/소문자/숫자 구별 - isNaN() (feat. 아스키 코드)/22.10.05
 > 👉 https://croossh103.tistory.com/21</br>
 
